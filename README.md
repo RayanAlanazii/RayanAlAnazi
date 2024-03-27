@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanalanaziis&label=Profile%20views&color=0e75b6&style=flat" alt="rayanalanaziis" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 💬 Ask me about **Flutter , java**
 
